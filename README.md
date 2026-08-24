@@ -604,7 +604,11 @@ Latest commit: `fb0ef1d`
 
 ### Packages
 
-No packages found.
+| Package | Description |
+| ------- | ----------- |
+| `clawhub-admin` | clawhub-admin package |
+| `clawhub` | CLI tool for managing skills |
+| `schema` | Shared API types and routes |
 
 ### CLI Commands
 
